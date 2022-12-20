@@ -1,2 +1,2 @@
 # FIFA-RANKER
-Using tensorflow to rank FIFA players in terms of usability, instead of rating
+Using the Tensorflow-Ranking library in order to ascertain FIFA players that are the most playable (by position), in terms of player opinion and not rating.
